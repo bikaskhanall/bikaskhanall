@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bikash Khanal</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h3 align="center">A passionate frontend and backend developer from Nepal</h3>
 
 <p align="left"> <img src="https://i.pinimg.com/originals/5c/51/97/5c5197e98dd706a76fd45bf25f303cc8.gif" alt="bikaskhanall" /> </p>
 
