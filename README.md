@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bikash Khanal</h1>
 <h3 align="center">A passionate Cross-Platform Mobile Developer from Nepal</h3>
-<p> Flutter Developer: Since they have expertise in Flutter for cross-platform mobile app development (using Dart).
-Backend Developer (in training): As they are learning Python Django, which is primarily used for backend development.</p>
 
 <p align="left"> <img src="https://i.pinimg.com/originals/5c/51/97/5c5197e98dd706a76fd45bf25f303cc8.gif" alt="bikaskhanall" /> </p>
 
