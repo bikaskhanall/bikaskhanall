@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://i.pinimg.com/originals/5c/51/97/5c5197e98dd706a76fd45bf25f303cc8.gif" alt="bikaskhanall" /> </p>
 
-- 🔭 I’m currently working on **Futsal Project**
+- 🔭 I’m currently working on **Lalgedi Mobile App,Futsal Project**
 
 - 🌱 I’m currently learning **Python, Django**
 
